@@ -2,3 +2,5 @@
 First we try "git reset --files" command.
 Now this is change for the working directory.
 Something wrong may happen.
+
+Yufei's modification.
